@@ -1,0 +1,19 @@
+
+body{
+	background-image: url(https://res.cloudinary.com/codier/image/upload/c_scale,w_235/nma9fg8ziky2oalipiid);
+	text-align: center;
+}
+#remaining-time{
+font-weight: bold;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+
+#question{
+font-size: 30px;
+}
